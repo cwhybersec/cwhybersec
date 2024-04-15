@@ -15,7 +15,7 @@ As I am preparing to increase my knowledge in the area of cloud and security I w
 
 | Skill                                           | Associated Project         |
 |-------------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis            | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis            | <a href="https://github.com/cwhybersec/Detection-Lab/tree/main">Detection Lab</a>|
 | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR           | SOC Automation Lab|
 | Incident Response Planning and Execution        | SOC Automation Lab|
@@ -61,6 +61,6 @@ As I am preparing to increase my knowledge in the area of cloud and security I w
 </div>
 
 ## Projects
-- Detection Lab
+- <a href="https://github.com/cwhybersec/Detection-Lab/tree/main">Detection Lab</a>
 - SOC Automation Project
 - Active Directory Project
